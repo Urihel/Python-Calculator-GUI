@@ -9,7 +9,7 @@ e.grid(row=0,columnspan=3,padx=10,pady=10)
 
 
 def buttonAdd():
-    print("Button are working")
+    print("Buttons are working")
 
 
 btn1 = Button(root,text="1",padx=31,pady=20,command=buttonAdd,bg="#00E0FF",fg="white" )
